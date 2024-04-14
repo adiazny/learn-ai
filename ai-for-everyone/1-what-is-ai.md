@@ -1,6 +1,8 @@
 # Week 1: What is AI?
 
 Presentation: [week 1](docs/wk1/W1.pdf)
+<br/>
+*Source: deeplearning.ai*
 
 ## AI subcatagories
 
