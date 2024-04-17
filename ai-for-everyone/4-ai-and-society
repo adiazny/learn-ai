@@ -1,0 +1,72 @@
+# AI and Society
+
+
+## A realistic view of AI 
+
+### Goldilocks rule for AI
+
+* Too optimistic: AI will solve all of humanity’s problems and create utopia
+* Too pessimistic: Super intelligent/sentient killer AI can lead to human extinction
+* Just right: AI is a powerful tool, but has limitations. We can mitigate its potential harms and use it to create tremendous value.
+
+### Limitations of AI
+* Performance limitations
+* Explainability is hard (but sometimes doable)
+
+### Limitations of AI
+* Biased AI through biased data
+* Adversarial attacks on AI
+
+
+## Discrimination / Bias
+
+* Man : Woman as Father: Mother
+* Man : Woman as King: Queen
+* Man : Computer programmer as Woman : Homemaker Computer programmer
+
+### Why bias matters
+* Hiring tool that discriminated against women
+* Facial recognition matching dark skinned individuals to criminal mugshots 
+* Bank loan approvals
+* Toxic effect of reinforcing unhealthy stereotypes
+
+### Combating bias
+* Technical solutions:
+    - E.g., “zero out” the bias in words
+    - Use less biased and/or more inclusive data
+* Transparency and/or auditing processes
+* Diverse workforce
+    - Creates less biased applications
+
+
+## Adversarial attacks on AI
+
+- minor perturbation (small change to the pixel value)
+    - an almost imperceptible change to most people
+- physical attacks: e.g. adding phycical objects to an image to have AI system to think it is something else than the actual picture
+
+- Defenses do exist, but incur some cost
+
+
+## Adverse uses of AI
+
+- DeepFakes
+    - Synthesize video of people doing things they never did
+- Undermining of democracy and privacy
+    - Oppressive monitoring of individuals
+- Generating fake comments
+- Spam vs. anti-spam and fraud vs. anti-fraud
+
+## AI and developing economies
+
+“leapfrog”
+-Mobile phones
+-Mobile payments
+-Online education
+
+- The US, China, UK, Canada, and many others have vibrant AI communities. But all countries still have a lot of development ahead
+- Focus on AI to strengthen a country’s vertical industries
+- Public-private partnerships to accelerate development
+
+## AI and jobs
+
