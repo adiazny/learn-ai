@@ -11,3 +11,12 @@ For example:
 - How do I want to expand and apply AI knowledge in my current cloud & developer career?
 - How techincal of a deep dive do I want to learn and apply AI in my career?
 - Do I want to transform my career again, this time into the AI space?
+
+
+## Courses in-progress
+
+## Courses to review
+
+## Courses Completed
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) by deeplearning.ai via coursera
+- [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone) by deeplearning.ai via coursera
