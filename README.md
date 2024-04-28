@@ -16,6 +16,13 @@ For example:
 ## Courses in-progress
 
 ## Courses to review
+- [AI for Beginners](https://github.com/microsoft/ai-for-beginners) by microsoft
+- [Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure) by microsoft
+- [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) by google cloud via cloudskillboost.google
+- [Generative AI for Beginners (Version 2)](https://github.com/microsoft/generative-ai-for-beginners) by microsoft
+- [Advanced: Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183) by google cloud via cloudskillboost.google
+- [Many other google cloud paths here](https://www.cloudskillsboost.google/paths) by google cloud via cloudskillboost.google
+- A [curated list](https://www.diverse-ai.org/generative-ai-learning-journey) of AI learning resources by diverse-ai.org
 
 ## Courses Completed
 - [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) by deeplearning.ai via coursera
